@@ -17,4 +17,4 @@
 ## Deployment
 
 This backend is configured for Railway deployment using nixpacks.toml.
-# Health Check: Local environment is set up correctly.
+# Health Check: Local environment is set up correctly. shit fuck
